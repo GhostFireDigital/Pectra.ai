@@ -7,9 +7,11 @@
 **AI + UX for Ethereum’s Next Era**  
 Design-forward, community-powered tools to enhance user experience during Ethereum’s Pectra upgrade cycle.
 
-🚀 [**Live Demo**](https://pectra-ai.netlify.app) ← _Update this once deployed on Netlify_
+🌐 Live Deployment
 
----
+- [Visit Live Site](https://pectra.ai)
+- [Netlify Deployment URL](https://pectra-ai.netlify.app)
+
 
 ## 🧪 What We’re Building
 
